@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/LightMaster001/LightMaster001/main/header.png)
+![Header](https://raw.githubusercontent.com/LightMaster001/LightMaster001/main/header.png)
 
 [![Years Badge](https://badges.pufler.dev/years/lightmaster001)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/lightmaster001)](https://badges.pufler.dev)
 
@@ -6,8 +6,8 @@
 
 Server-hosting with:
 
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
