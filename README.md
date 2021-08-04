@@ -2,6 +2,8 @@
 
 [![Years Badge](https://badges.pufler.dev/years/lightmaster001)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/lightmaster001)](https://badges.pufler.dev)
 
+![Visitor Count](https://profile-counter.glitch.me/{lightmaster001}/count.svg)
+
 Server-hosting with:
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
