@@ -1,5 +1,7 @@
 ![Header](https://raw.githubusercontent.com/LightMaster001/LightMaster001/main/header.png)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/lightmaster001/)
+
 [![Years Badge](https://badges.pufler.dev/years/lightmaster001)](https://badges.pufler.dev) [![Repos Badge](https://badges.pufler.dev/repos/lightmaster001)](https://badges.pufler.dev)
 
 ![Visitor Count](https://profile-counter.glitch.me/{lightmaster001}/count.svg)
