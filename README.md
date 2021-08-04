@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-User of:
-
+Server-hosting with:
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 <!--
 **LightMaster001/LightMaster001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
