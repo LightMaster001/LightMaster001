@@ -7,6 +7,8 @@ Server-hosting with:
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!--
 **LightMaster001/LightMaster001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
