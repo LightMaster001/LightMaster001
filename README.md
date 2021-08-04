@@ -1,6 +1,6 @@
-!(https://raw.githubusercontent.com/LightMaster001/LightMaster001/main/header.png)
+![](https://raw.githubusercontent.com/LightMaster001/LightMaster001/main/header.png)
 
-### Hi there 👋
+
 
 Server-hosting with:
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
