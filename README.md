@@ -1,4 +1,4 @@
-./https://raw.githubusercontent.com/LightMaster001/LightMaster001/main/header.png
+!(https://raw.githubusercontent.com/LightMaster001/LightMaster001/main/header.png)
 
 ### Hi there 👋
 
