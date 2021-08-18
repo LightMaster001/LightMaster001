@@ -9,6 +9,9 @@ Server-hosting with:
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)](https://www.debian.org/)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
 
+Is the server up?
+
+[![Server-Status](https://img.shields.io/uptimerobot/status/m779426128-6b6e81ed8dc987db17d4cad2.svg)](https://stats.uptimerobot.com/pojlBHzRg5)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
